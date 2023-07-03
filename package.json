@@ -1,0 +1,20 @@
+{
+  "name": "user_api",
+  "version": "1.0.0",
+  "description": "-y seta todas as respostas como _yes_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GEDAHISA/user_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GEDAHISA/user_api/issues"
+  },
+  "homepage": "https://github.com/GEDAHISA/user_api#readme"
+}
