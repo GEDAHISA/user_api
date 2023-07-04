@@ -10,6 +10,8 @@ npm init -y
 ## 2. instalado o nodemon e o express
 
 ```js
-npm i nodemon expressgit add .
+npm i nodemon express
 
 ```
+
+![Alt text](image.png)
